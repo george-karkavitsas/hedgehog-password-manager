@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hedgehog - Password Manager</title>
+  <style>
+    body { margin: 0; font-family: sans-serif; background: #f5f7fa; color: #333; }
+    header { background: #111; color: white; padding: 2rem; text-align: center; }
+    h1 { margin: 0; font-size: 2rem; }
+    .section { padding: 2rem; max-width: 800px; margin: auto; }
+    .features { display: grid; gap: 1.5rem; }
+    .feature { background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .cta { text-align: center; margin-top: 2rem; }
+    .btn { background: #0070f3; color: white; padding: 0.8rem 1.5rem; border: none; border-radius: 6px; font-size: 1rem; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hedgehog</h1>
+    <p>Password Manager for Android</p>
+  </header>
+  <section class="section">
+    <div class="features">
+      <div class="feature"><strong>Store Personal Info:</strong> Securely store credentials, cards & notes.</div>
+      <div class="feature"><strong>Master Password:</strong> Only one password to remember.</div>
+      <div class="feature"><strong>AES‑256 Encryption:</strong> Data encrypted locally with top-tier encryption.</div>
+      <div class="feature"><strong>Two-Factor Encryption:</strong> Combines master password + unique code.</div>
+      <div class="feature"><strong>Zero-Knowledge System:</strong> We know nothing about your data.</div>
+      <div class="feature"><strong>Save/Restore/Sync:</strong> Backup via Firebase with full encryption.</div>
+      <div class="feature"><strong>Offline Functionality:</strong> Works without internet except for sync.</div>
+    </div>
+    <div class="cta">
+      <a class="btn" href="https://play.google.com/store/apps/details?id=com.example.hedgehog" target="_blank">Get it on Google Play</a>
+    </div>
+  </section>
+</body>
+</html>
