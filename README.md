@@ -1,7 +1,9 @@
 # 🦔 Hedgehog Password Manager
 
-![Hedgehog Logo](assets/1.png)
-![Secure Storage](assets/2.png)
+<p align="center">
+  <img src="assets/1.png" width="200"/>
+  <img src="assets/2.png" width="200"/>
+</p>
 
 ## 🔐 Store Personal Info  
 Hedgehog will keep all your credentials, credit cards or even notes secure and ready for use.
