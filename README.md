@@ -10,7 +10,7 @@
 ## 🔐 Store Personal Info  
 Hedgehog will keep all your credentials, credit cards or even notes secure and ready for use.
 
-## 🧠 Master Password
+## 🔑 Master Password
 The only password you'll need to remember. It will be encrypted upon creation and will be part of the key that encrypts your data.
 
 ## 🔒 AES‑256 Encryption
