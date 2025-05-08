@@ -1,5 +1,7 @@
 # 🦔 Hedgehog Password Manager
 
+Hedgehog built for privacy. Designed for simplicity. Powered by trust.
+
 <p align="center">
   <img src="assets/1.png" width="200"/>
   <img src="assets/2.png" width="200"/>
